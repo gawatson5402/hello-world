@@ -1,4 +1,4 @@
 # hello-world
 likely says hello world
 
-Hi, I'm Graham and a Japanese major at Ball State.
+I guess this is eventually where we say hello world.
